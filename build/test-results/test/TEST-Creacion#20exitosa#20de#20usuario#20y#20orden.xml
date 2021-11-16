@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Creacion exitosa de usuario y orden" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-16T13:40:36" hostname="LAPTOP-PISRMKJI" time="6.549">
+  <properties/>
+  <testcase name="Creacion de Orden" classname="Creacion exitosa de usuario y orden" time="6.549"/>
+  <system-out><![CDATA[{"code":200,"type":"unknown","message":"9223372036854775807"}
+{"code":200,"type":"unknown","message":"0"}
+{"code":200,"type":"unknown","message":"0"}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
